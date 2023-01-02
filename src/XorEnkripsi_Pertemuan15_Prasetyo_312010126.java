@@ -23,7 +23,7 @@ public class XorEnkripsi_Pertemuan15_Prasetyo_312010126 {
                 encrypHexa += String.format("%02x", (byte)temp);
                 keyItr++;
                 if(keyItr >= key.length()){
-                    // once all of key's letters are used, repeat the key
+                    
                     keyItr = 0;
                 }
 
