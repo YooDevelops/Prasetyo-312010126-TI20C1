@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-import java.util.Scanner;
+
 
 public class XorEnkripsi_Pertemuan15_Prasetyo_312010126 {
         public static Scanner in;
